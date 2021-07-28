@@ -25,7 +25,7 @@ console.log("Nombre", nombre);
 console.log("contraseña:", contrasena);
 
 
-window.open("https://6dn0c.csb.app/");
+window.open("https://7dn0c.csb.app/");
 
 
 }
